@@ -1,0 +1,60 @@
+body {
+  background-color: #20B2AA;
+  .profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+  }
+  .profileimage {
+    width: 200px;
+  }
+  .profile h2 {
+    color: white;
+  }
+  .profile h4 {
+    color: white;
+    transform: translateY(-10px);
+  }
+  
+  .biodata {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    padding: 55px;
+  }
+  .Pendidikan {
+    margin-bottom: -40px;
+    padding: 55px;
+  }
+  .organisasi{
+    padding: 55px;
+  }
+  .pengalamankerja {
+    padding: 55px;
+  }
+  .tabel {
+    text-align: center;
+    border-collapse: collapse;
+    margin-bottom: 60px;
+    width: 100px;
+  }
+  th,
+  td {
+    border: 1px solid #000;
+    padding: 10px;
+    text-align: center;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  .achievment {
+    padding: 55px;
+  }
+  .contact {
+    padding: 55px;
+  }
+  .footer {
+    padding: 55px;
+  }
